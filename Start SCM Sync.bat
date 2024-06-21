@@ -1,0 +1,1 @@
+C:\Files\PyCharm_Workspace\SCM_Sync\venv\Scripts\python.exe main.py
